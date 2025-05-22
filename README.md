@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/bira10a/bira10a/master/waves.svg" width="100%" height="150">
+
 <!--
 **bira10a/bira10a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

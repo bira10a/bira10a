@@ -6,6 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/bira10a/bira10a/master/waves.svg" width="100%" height="150">
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bira10a&style=flat-square&color=blue" alt=""></p>
+
 <!--
 **bira10a/bira10a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

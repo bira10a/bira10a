@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/bira10a/bira10a/master/logo.svg" width="200" height="150"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/bira10a/bira10a/master/waves.svg" width="100%" height="150">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=bira10a&style=flat-square&color=blue" alt=""></p>

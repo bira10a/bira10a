@@ -25,3 +25,62 @@
 ###
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=bira10a&style=flat-square&color=blue" alt=""></p>
+
+###
+
+<h2 align="left">👩‍💻  Немного обо мне</h3>
+
+###
+
+<p align="left"> <strong>Я занимаюсь Frontend разработкой.</strong><br> 
+  С 2021 года увлекался версткой, и в последствии ушёл с головой в Frontend разработку. <br>
+  В последнее время пишу на React + TS (мечтаю полноценно и ежедневно писать строчки кода и ковыряться в багах 0__0 )<br>
+  - 🔭 Постоянно совершенствуюсь, ведь нет предела совершенства)).<br>- 📚 Frontend разработка для меня не просто работа, но и увлекательное хобби и то от чего я получаю удовольствие)<br>- ⚡ Постоянная и бесприрывная коммуникация с коллегами по цеху и с людьми с разных направлений и профессий</p>
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gulp/b22222" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/ea3b52" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/8DD6F9" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bira10a&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bira10a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bira10a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
